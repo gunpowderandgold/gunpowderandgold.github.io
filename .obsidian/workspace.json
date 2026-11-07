@@ -11,10 +11,14 @@
             "id": "40c346b0d78390f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shipyard.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shipyard"
             }
           }
         ]
@@ -181,6 +185,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "40c346b0d78390f9",
-  "lastOpenFiles": []
+  "active": "c6749ae369cb7f74",
+  "lastOpenFiles": [
+    "Violence at Sea.md",
+    "Violence.md",
+    "Weapons and Gear.md",
+    "Character Creation.md"
+  ]
 }
