@@ -3,11 +3,13 @@
 - Rules and Characters
 
   - [Character Creation](character-creation.md)
+    
   - [Weapons and Gear](weapons-and-gear.md)
     - [Inventory](weapons-and-gear.md#inventory)
     - [Armour](weapons-and-gear.md#armour)
     - [Melee Weapons](weapons-and-gear.md#melee-weapons)
     - [Firearms](weapons-and-gear.md#firearms)
+      
   - [Violence](Violence.md)
     - [Initiative](Violence.md#Initiative)
     - [Dis/Advantage](Violence.md#disadvantage)
@@ -21,7 +23,6 @@
     - [Edge Cases](Violence.md#shooting-a-charging-person)
 
 - Life at Sea
-  
   - [Violence at Sea](violence-at-sea.md)
     - [Weather Gauge](violence-at-sea.md#weather-gauge)
     - [Range](violence-at-sea.md#range)
