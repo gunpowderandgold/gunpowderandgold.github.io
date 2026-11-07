@@ -4,6 +4,10 @@
 
   - [Character Creation](character-creation.md)
   - [Weapons and Gear](weapons-and-gear.md)
+    - [Inventory](weapons-and-gear.md#inventory)
+    - [Armour](weapons-and-gear.md#armour)
+    - [Melee Weapons](weapons-and-gear.md#melee-weapons)
+    - [Firearms](weapons-and-gear.md#firearms)
   - [Violence](Violence.md)
     - [Initiative](Violence.md#Initiative)
     - [Dis/Advantage](Violence.md#disadvantage)
@@ -16,7 +20,29 @@
     - [Luck](Violence.md#luck)
     - [Edge Cases](Violence.md#shooting-a-charging-person)
 
-- Life at Sea 
-
+- Life at Sea
+  
   - [Violence at Sea](violence-at-sea.md)
+    - [Weather Gauge](violence-at-sea.md#weather-gauge)
+    - [Range](violence-at-sea.md#range)
+    - [Manoeuvring](violence-at-sea.md#manoeuvring)
+    - [Gambits](violence-at-sea.md#gambits)
+    - [Shooting](violence-at-sea.md#shooting)
+    - [Damage Checks](violence-at-sea.md#damage-checks)
+    - [Disabled](violence-at-sea.md#disabled)
+    - [Crew Stations](violence-at-sea.md#crew-stations)
+    - [Boarding](violence-at-sea.md#boarding)
+    - [Morale](violence-at-sea.md#morale)
   - [Shipyard](Shipyard.md)
+    - [Yawl](shipyard.md#yawl)
+    - [Cutter](shipyard.md#cutter)
+    - [Schooner](shipyard.md#schooner)
+    - [Sloop](shipyard.md#sloop)
+    - [Brigantine](shipyard.md#brigantine)
+    - [Fluyt](shipyard.md#fluyt)
+    - [Hoy](shipyard.md#hoy)
+    - [Indiaman](shipyard.md#indiaman)
+    - [Frigate](shipyard.md#frigate)
+    - [Galleon](shipyard.md#galleon)
+    - [Man-o-War](shipyard.md#man-o-war)
+      
