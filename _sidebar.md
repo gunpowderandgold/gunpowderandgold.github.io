@@ -5,6 +5,7 @@
   - [Character Creation](character-creation.md)
   - [Weapons and Gear](weapons-and-gear.md)
   - [Violence](Violence.md)
+    - [Initiative](Violence.md#Initiative)
 
 - Life at Sea 
 
