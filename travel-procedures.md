@@ -24,7 +24,7 @@ Once per day, roll on the following table.
 | 4   | Ship Problem      |
 | 5-6 | No event          |
 
-### Encounters 
+####  Encounters 
 
 Encounters are based on the type of passage, modified by dominant faction in an area. 
 
@@ -70,7 +70,29 @@ Encounters are based on the type of passage, modified by dominant faction in an 
 | 11  | Hazard          |
 | 12  | Hazard          |
 
+#### Ship Problem 
 
+| d6  | Location   |
+| --- | ---------- |
+| 1   | Helm       |
+| 2   | Cargo Hold |
+| 3   | Gun Deck   |
+| 4   | Crew Deck  |
+| 5   | Hull       |
+| 6   | Rigging    |
 
-
-
+| d12 | Problem      |
+| --- | ------------ |
+| 1   | Water        |
+| 2   | Infestation  |
+| 3   | Stowaway     |
+| 4   | Rivalry      |
+| 5   | Fire         |
+| 6   | Rot          |
+| 7   | Faction      |
+| 8   | Mistake      |
+| 9   | Disease      |
+| 10  | Blockage     |
+| 11  | Superstition |
+| 12  | Betrayal     |
+ 
