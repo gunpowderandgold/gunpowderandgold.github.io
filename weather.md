@@ -1,3 +1,3 @@
-![[weather flower.png]]
+![Weather Hex Flower](weather_flower.png)
 
 

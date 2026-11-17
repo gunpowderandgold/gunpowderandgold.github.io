@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "weather.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_sidebar"
+              "title": "weather"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "a3cf878a2972dd3a",
   "lastOpenFiles": [
-    "weather.md",
+    "weather_flower.png",
     "_sidebar.md",
-    "weather flower.png",
+    "weather.md",
     "travel-procedures.md",
     "shipyard.md",
     "weapons-and-gear.md",
